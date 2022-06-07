@@ -11,7 +11,9 @@ Data is collected by google forms.
 If there is a match, you are going to get a mail by your METU Mail address. 
 
 may the horses be with you
+
 the admin
+
 Orcun Sami Tandogan
 
 All rights are reserverd.  
